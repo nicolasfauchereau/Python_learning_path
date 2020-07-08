@@ -8,8 +8,8 @@ Welcome to NIWA's **Python Learning Path** for [NIWA's Digital Learning Hub](htt
 + The core components of the Python Scientific Ecosystem (Numpy = data structures, Scipy =  scientific algorithms, Matplotlib = plotting)
 + Dealing with file formats in Python quick intro (from matlab files to netcdf)
 + Towards data science in Python: Pandas
-+ Multidimensional labelled arrays: Xarray and Iri
-+ More on plotting with Python: deeper dive in Matplotlib, statistical plots with seaborn, Geographic maps with Cartopy, interactive plotting solutions (e.g. the 'pyviz' ecosystem)
++ Multidimensional labelled arrays: Xarray and Iris
++ More on plotting with Python: deeper dive in Matplotlib, statistical plots with seaborn, Geographic maps with Cartopy, interactive plotting solutions (the 'pyviz' ecosystem)
 + Python Machine Learning:
 	- Quick introduction to Machine Learning
 	- Scikit-learn
